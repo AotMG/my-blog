@@ -1,0 +1,9 @@
+title: My Blog
+description: >- # this means to ignore newlines until "baseurl:"
+  A personal blog powered by Jekyll and GitHub Pages.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://AotMG.github.io/my-blog" # the base hostname & protocol for your site.
+
+# Build settings
+markdown: kramdown
+theme: minima
